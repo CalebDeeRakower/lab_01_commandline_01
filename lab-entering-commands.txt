@@ -36,7 +36,6 @@ the window flashed black for a moment
 ----------
 Desktop/   Documents/ Downloads/ 
 
-
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
